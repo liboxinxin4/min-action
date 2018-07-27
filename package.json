@@ -1,0 +1,35 @@
+{
+  "name": "skyline-min-action-ts",
+  "version": "1.0.0",
+  "description": "min action for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.sys.cigna.com:skyline/skyline-min-action-ts.git"
+  },
+  "author": "boxin li",
+  "license": "ISC",
+  "dependencies": {
+    "avsc": "^5.4.1",
+    "dotenv": "^6.0.0",
+    "kafka-streams": "^4.5.0",
+    "typescript-require": "^0.2.10",
+    "uuid": "^3.3.2",
+    "eslint": "^5.0.1",
+    "global": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.2",
+    "@types/uuid": "^3.4.3",
+    "async": "~2.6.1",
+    "jsdoc": "^3.5.5",
+    "jsdoc-to-markdown": "^4.0.1",
+    "log4bro": "^3.7.1",
+    "mocha": "^5.2.0",
+    "proxyquire": "^2.0.1",
+    "uuid": "^3.3.2"
+  }
+}

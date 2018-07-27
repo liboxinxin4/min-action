@@ -1,0 +1,4 @@
+*-debug.log
+*-error.log
+node_modules
+package-lock.json
